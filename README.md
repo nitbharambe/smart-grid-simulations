@@ -9,4 +9,4 @@ Simluation of a typical HVDC breaker.
 
 ## PE MATLAB Simulations
 Simulations from various internet sources with own modifications for learning power electronics applications modelling in MATLAB.
-(References:[Youtube videos](https://www.youtube.com/c/nakiguler)
+(References:[Youtube](https://www.youtube.com/c/nakiguler))
